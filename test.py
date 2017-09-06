@@ -10,6 +10,6 @@ def subtract(x,y):
     z = x - y
     return z
 
-print(add(9,1))
+print(subtract(9,1))
 
 
